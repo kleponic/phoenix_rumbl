@@ -39,6 +39,7 @@ defmodule Rumbl.Mixfile do
      {:gettext, "~> 0.11"},
      {:comeonin, "~> 2.0"},
      {:bcrypt_elixir, "~> 1.0"},
+     {:plug, "~> 1.3"},
      {:cowboy, "~> 1.0"}]
   end
 
